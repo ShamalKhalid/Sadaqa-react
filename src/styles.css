@@ -1,0 +1,254 @@
+body {
+  font-family: montserrat-bold;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Montserrat" sans-serif;
+}
+
+h2 {
+  color: white;
+  font-size: 3rem;
+  padding-bottom: 5px;
+}
+
+em {
+  color: beige;
+  padding-left: 20px;
+  line-height: 1.5;
+}
+
+.big-heading {
+  color: #ffffff;
+  font-weight: 900;
+  /* black */
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 12%;
+}
+
+.navbar-brand {
+  font-family: "Martian Mono", monospace;
+  font-size: 50px;
+}
+
+.collapse {
+  font-family:'Raleway', sans-serif;
+  font-size: 22px
+}
+
+button:hover {
+  color: #a19695;
+  background-color: #1a1818;
+}
+
+.fa-solid {
+  color: #ef8172;
+  margin-left: 10px;
+  font-size: 3rem;
+}
+
+.row {
+  margin-left: 0px;
+  margin-right: 5px;
+  background-color: whitesmoke;
+}
+
+.head_file {
+  padding-top: 180px;
+}
+
+.head_image {
+  padding-top: 50px;
+}
+
+.specs {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  max-height: 90vh;
+}
+@media (max-width: 780px) {
+  .specs {
+    padding-bottom: 100px;
+  }
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+  margin-left: 40px;
+  text-align: center;
+  color: #8f8f8f;
+}
+
+
+.pricing-head {
+  font-family: "Playfair Display", serif;
+  color: black;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#pricing {
+  padding: 20px 0px 10px;
+  text-align: center;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+}
+
+.btn-outline {
+  background-color: white;
+  color: black;
+}
+
+.price-rate {
+  color: black;
+}
+
+.card-header {
+  margin-bottom: 20px;
+}
+
+.img1 {
+  width: 100%;
+  height: 1100px;
+  margin-bottom: -200px;
+  margin-top: -300px;
+}
+.intro {
+  position: relative;
+  bottom: 200px;
+}
+.Ptag {
+  color: white;
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  .Ptag {
+    font-size: 2.5rem;
+  }
+}
+.AboutUs {
+  text-align: left;
+  padding-bottom: 10%;;
+}
+.containerImg {
+  margin-top: -110px;
+}
+.donationImg {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  bottom: 20px;
+}
+.DonateP{
+  padding-right: 20px;
+
+ 
+}
+.team{
+  text-align: center;
+  background-color: #ef8172;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right: 20px;
+  color:aliceblue;
+}
+.FounderColumn{
+  height: 70vh;
+  width: 100%;
+}
+.imagediv{
+  height: 320px;
+  width: auto;
+}
+.imagetag{
+  width: 100%;
+  height: 100%;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+@media (max-width: 990px) {
+  .imagediv {
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+}
+.founderInfo{
+  text-align: center;
+  padding-top: 20px;
+}
+.founderInfo p{
+  text-align: center;
+  color: #a19695;
+}
+.footer-credit{
+  padding-bottom:20px;
+  color: #EAF6F6;
+  font-size:0.75em;
+  padding: 20px 0;
+  padding-right: 60px;
+}
+.bottom-container{
+  background-color: #C7594A;
+  padding: 30px 0px 5px 0px;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: #EAF6F6;
+}
+a:hover{
+  color: #66BFBF;
+}
+.footer-link{
+  margin-right: 20px;
+}
+
+
+
+
+/* About us */
+
+#AboutUsHome{
+  background-color: black;
+  color: #fff;
+}
+
+.WhoWeAreHeader{
+  padding-top: 120px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: 'Lato', sans-serif;;
+}
+#WhatSadaqa p{
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 30px;
+}
+@media (max-width: 600px) {
+  #WhatSadaqa p {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 1000px) {
+  .WhoWeAreHeader {
+    padding-top: 200px;
+  }
+}
