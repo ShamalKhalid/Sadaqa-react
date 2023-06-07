@@ -1,16 +1,17 @@
 import React from "react";
-import img1 from "../img/img1.jpg"
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import img1 from "../img/img1.jpg";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <Router>
     <section id="title">
       <div>
         {/* <!-- Nav Bar --> */}
         <nav className="navbar navbar-expand-lg navbar-dark">
           <div>
-            <Link to="/" className="navbar-brand">Sadaqa</Link>
+            <Link to="/" className="navbar-brand">
+              Sadaqa
+            </Link>
           </div>
           <button
             className="navbar-toggler"
@@ -31,19 +32,23 @@ function Header() {
                 </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#pricing">
-                  Our Associates
-                </a>
+                <div>
+                  <Link to="/AssociatesApp" className="nav-link ">
+                    Our Associates
+                  </Link>
+                </div>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#cta">
+                <a className="nav-link" href="#pricing">
                   Donate
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="contact.html">
-                  Login
-                </a>
+                <div>
+                  <Link to="/LoginForm" className="nav-link ">
+                    Login
+                  </Link>
+                </div>
               </li>
             </ul>
           </div>
@@ -57,7 +62,6 @@ function Header() {
         </div>
       </div>
     </section>
-    </Router>
   );
 }
 

@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css"
+import "./styles.css";
 import Header from "./components/Home/Header";
 import OurAim from "./components/Home/OurAim";
 import Footer from "./components/Home/Footer";
@@ -15,7 +15,6 @@ function Home() {
       <Founders />
       <Footer />
     </div>
-    
   );
 }
 

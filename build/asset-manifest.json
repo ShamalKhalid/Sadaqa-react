@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c361967e.css",
-    "main.js": "/static/js/main.ecc19783.js",
+    "main.css": "/static/css/main.e418f8c6.css",
+    "main.js": "/static/js/main.08c0a7b6.js",
     "static/media/img2.jpg": "/static/media/img2.64e36896334153132c01.jpg",
     "static/media/donatedark.jpg": "/static/media/donatedark.d4c4395efe97bfd5d6e4.jpg",
+    "static/media/associatesdark.jpg": "/static/media/associatesdark.530e10b999572be62cca.jpg",
     "static/media/img3.jpg": "/static/media/img3.bf7a3fa385a81bc53ebc.jpg",
     "static/media/shamal.jpeg": "/static/media/shamal.226897da3d634a841ad9.jpeg",
     "static/media/rizwin.jpeg": "/static/media/rizwin.cfb6ff3768b910b7e5df.jpeg",
     "static/media/rizwan.jpeg": "/static/media/rizwan.bc9af78c7fef433a9b17.jpeg",
     "static/media/sahal.jpeg": "/static/media/sahal.666b927eb5a64b45fee9.jpeg",
     "static/media/img4.jpg": "/static/media/img4.a86b2a4db10f54e44205.jpg",
+    "static/media/sadaqalogo.png": "/static/media/sadaqalogo.0af83ef68072ddfe18de.png",
     "static/media/img1.jpg": "/static/media/img1.43dce0f7aff2bb30a896.jpg",
     "index.html": "/index.html",
-    "main.c361967e.css.map": "/static/css/main.c361967e.css.map",
-    "main.ecc19783.js.map": "/static/js/main.ecc19783.js.map"
+    "main.e418f8c6.css.map": "/static/css/main.e418f8c6.css.map",
+    "main.08c0a7b6.js.map": "/static/js/main.08c0a7b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c361967e.css",
-    "static/js/main.ecc19783.js"
+    "static/css/main.e418f8c6.css",
+    "static/js/main.08c0a7b6.js"
   ]
 }
