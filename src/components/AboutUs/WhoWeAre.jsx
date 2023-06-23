@@ -46,7 +46,7 @@ function WhoWeAre() {
         <h1 className="whatoffer">What do we Offer?</h1>
       </div>
       <div className="row weare">
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i class="fa-solid fa-bookmark"></i>
           <h3>Transparency</h3>
           <p className="AboutUs2">
@@ -57,7 +57,7 @@ function WhoWeAre() {
             transparency and accountability.
           </p>
         </div>
-        <div className="specs col-lg-4 col-md-4 col-sm-12">
+        <div className="specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i class="fa-solid fa-face-smile"></i>
           <h3>Convenience</h3>
           <p className="AboutUs2">
@@ -69,7 +69,7 @@ function WhoWeAre() {
           </p>
         </div>
 
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i class="fa-solid fa-cart-shopping"></i>
           <h3>Secure Transactions</h3>
           <p className="AboutUs2">
@@ -80,7 +80,7 @@ function WhoWeAre() {
             and confidence in donors when making online donations.
           </p>
         </div>
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i class="fa-solid fa-credit-card"></i>
           <h3>Multiple Payment Options</h3>
           <p className="AboutUs2">
@@ -91,7 +91,7 @@ function WhoWeAre() {
             donation process more convenient and accessible.
           </p>
         </div>
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i class="fa-solid fa-file-shield"></i>
           <h3>Tax Benefits</h3>
           <p className="AboutUs2">
@@ -101,7 +101,7 @@ function WhoWeAre() {
             also help them maximize the impact of their giving.
           </p>
         </div>
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i class="fa-solid fa-receipt"></i>
           <h3>Donation History and Receipts</h3>
           <p className="AboutUs2">

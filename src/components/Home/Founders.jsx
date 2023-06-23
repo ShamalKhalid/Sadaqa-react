@@ -11,7 +11,7 @@ function Founders() {
         <h1>Meet the Team</h1>
       </div>
       <div className="row">
-        <div className="col-sm-12 col-xs-12 col-lg-3 FounderColumn ">
+        <div className="col-xl-3 col-sm-12 col-xs-12 col-lg-3 FounderColumn ">
           <div className="imagediv">
             <img className="imagetag" src={shamal}></img>
           </div>
@@ -20,7 +20,7 @@ function Founders() {
             <p>Founder & CEO</p>
           </div>
         </div>
-        <div className="col-sm-12 col-xs-12 col-lg-3 FounderColumn">
+        <div className="col-xl-3 col-sm-12 col-xs-12 col-lg-3 FounderColumn">
           <div className="imagediv">
             <img className="imagetag" src={sahal}></img>
           </div>
@@ -29,7 +29,7 @@ function Founders() {
             <p>COO</p>
           </div>
         </div>
-        <div className="col-sm-12 col-xs-12 col-lg-3 FounderColumn">
+        <div className="col-xl-3 col-sm-12 col-xs-12 col-lg-3 FounderColumn">
           <div className="imagediv">
             <img className="imagetag" src={rizwin}></img>
           </div>
@@ -38,12 +38,12 @@ function Founders() {
             <p>CCO</p>
           </div>
         </div>
-        <div className="col-sm-12 col-xs-12 col-lg-3 FounderColumn">
+        <div className="col-xl-3 col-sm-12 col-xs-12 col-lg-3 FounderColumn">
           <div className="imagediv">
             <img className="imagetag" src={rizwan}></img>
           </div>
           <div className="founderInfo">
-            <h3>Mohammed Rizwan N</h3>
+            <h3>Mohammed Rizwan</h3>
             <p>CFO</p>
           </div>
         </div>

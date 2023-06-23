@@ -6,7 +6,7 @@ function OurAim() {
 
     <section id="features">
       <div className="row">
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i className="fa-solid fa-circle-check "></i>
           <h3>Empowerment.</h3>
           <p className="AboutUs">
@@ -15,7 +15,7 @@ function OurAim() {
             challenges and improve their circumstances.
           </p>
         </div>
-        <div className="specs col-lg-4 col-md-4 col-sm-12">
+        <div className="specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i className="fa-solid fa-bullseye"></i>
           <h3>Compassion</h3>
           <p className="AboutUs">
@@ -25,7 +25,7 @@ function OurAim() {
           </p>
         </div>
 
-        <div className=" specs col-lg-4 col-md-4 col-sm-12">
+        <div className=" specs col-xl-4 col-lg-4 col-md-4 col-sm-12">
           <i className="fa-solid fa-heart"></i>
           <h3>Impact</h3>
           <p className="AboutUs">

@@ -7,7 +7,7 @@ function AssociatesBody() {
         <h1>Get to know our Associates.</h1>
       </div>
       <div className="row">
-        <div className=" specs col-lg-6 col-md-6 col-sm-12">
+        <div className=" specs col-xl-6 col-lg-6 col-md-6 col-sm-12">
           <i className="fa-solid fa-circle-check "></i>
           <h3>Empowerment.</h3>
           <p className="AboutUs">
@@ -16,7 +16,7 @@ function AssociatesBody() {
             challenges and improve their circumstances.
           </p>
         </div>
-        <div className="specs col-lg-6 col-md-6 col-sm-12">
+        <div className="specs col-xl-6 col-lg-6 col-md-6 col-sm-12">
           <i className="fa-solid fa-bullseye"></i>
           <h3>Compassion</h3>
           <p className="AboutUs">

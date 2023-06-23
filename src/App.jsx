@@ -5,6 +5,7 @@ import AssociatesApp from "./components/OurAssociates/AssociatesApp";
 import Home from "./Home";
 import LoginForm from "./components/login/LoginForm";
 import Signup from "./components/login/SignUpForm";
+import hungerRelief from "./components/Causes/hungerRelief";
 import { Helmet } from "react-helmet";
 import sadaqalogo from "../src/components/img/sadaqalogo.png"
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Route path="/AssociatesApp" component={AssociatesApp} />
         <Route path="/LoginForm" component={LoginForm} />
         <Route path="/SignupForm" component={Signup} />
+        <Route path="/hungerRelief" component={hungerRelief} />
       </Switch>
     </Router>
     </div>
